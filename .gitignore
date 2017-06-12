@@ -1,0 +1,13 @@
+# Webstorm/Idea config files
+.idea
+*.iml
+.vscode/
+out
+
+# Private
+.npmrc
+
+# Project specyfic
+node_modules
+output/*.json
+reports/*.xlsx
